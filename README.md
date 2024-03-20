@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fiosjeofod
+- 👋 Hi, I’m @fiosjeofo
 
 <!---
 fiosjeofo/fiosjeofo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
